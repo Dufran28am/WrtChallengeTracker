@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrtChallengeTracker", "WrtChallengeTracker.csproj", "{96BC77D8-F334-4A2A-965A-381AFA26D9BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrtChallengeTracker", "WrtChallengeTracker.csproj", "{96BC77D8-F334-4A2A-965A-381AFA26D9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "..\Playground\Playground.csproj", "{1574AC5A-0FA2-4CD0-AB5C-68820B743CA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{96BC77D8-F334-4A2A-965A-381AFA26D9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96BC77D8-F334-4A2A-965A-381AFA26D9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96BC77D8-F334-4A2A-965A-381AFA26D9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1574AC5A-0FA2-4CD0-AB5C-68820B743CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1574AC5A-0FA2-4CD0-AB5C-68820B743CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1574AC5A-0FA2-4CD0-AB5C-68820B743CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1574AC5A-0FA2-4CD0-AB5C-68820B743CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

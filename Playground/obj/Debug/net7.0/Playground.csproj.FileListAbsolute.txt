@@ -1,0 +1,17 @@
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\Playground.exe
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\Playground.deps.json
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\Playground.runtimeconfig.json
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\Playground.dll
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\Playground.pdb
+D:\visualStudio\WrtChallengeTracker\Playground\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.csproj.AssemblyReference.cache
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.AssemblyInfoInputs.cache
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.AssemblyInfo.cs
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.csproj.CoreCompileInputs.cache
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.csproj.CopyComplete
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.dll
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\refint\Playground.dll
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.pdb
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\Playground.genruntimeconfig.cache
+D:\visualStudio\WrtChallengeTracker\Playground\obj\Debug\net7.0\ref\Playground.dll

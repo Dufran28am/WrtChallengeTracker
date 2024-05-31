@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmZysc+domOuBlISxpcneAN9Pnlcekh0Fk3Dy7UuU/2tm8hM35Vey1pBFB8IFB2iK4K6NmmJ0362GFBezGPnTQ==",
+  "success": true,
+  "projectFilePath": "D:\\visualStudio\\WrtChallengeTracker\\Playground\\Playground.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amélie\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LCfjSCSJzvLvkO/RVS7VukOk3GOLVG35XEW99PqR7Sg4apASzDWhLyV+9T8grBOXuvVD96kyy1DBoo0MaRzt2w==",
+  "dgSpecHash": "sw218pZtQrowSJePykwYPXnAdBdAg+0UxnRvLQHBstHUlvb2bhi0NQW9xGzS98OPv7CGzp1mpWPPRMNQbSY6vQ==",
   "success": true,
   "projectFilePath": "D:\\visualStudio\\WrtChallengeTracker\\WrtChallengeTracker\\WrtChallengeTracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Amélie\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\Amélie\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
   "logs": []
 }
