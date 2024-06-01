@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fileChallengSave"
+    targetNamespace="http://tempuri.org/fileChallengSave.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/fileChallengSave.xsd"
+    xmlns:mstns="http://tempuri.org/fileChallengSave.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="challengeDataRoot">
+    <xs:complexType>
+      <xs:all>
+        <xs:element name="challenges">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="challenge">
+                <xs:complexType>
+                  <xs:all>
+
+                    <xs:element name="note" nillable="1">
+                      <xs:complexType>
+                        <xs:simpleContent >
+                          <xs:extension base="xs:string"></xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="tags" nillable="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="tag">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:byte"></xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="gallery" nillable="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="picture">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string"></xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:all>
+                  <xs:attribute name="id" type="xs:string"></xs:attribute>
+                  <xs:attribute name="gratification" type="xs:string"></xs:attribute>
+                  <xs:attribute name="name" type="xs:string"></xs:attribute>
+                  <xs:attribute name="publisher" type="xs:string"></xs:attribute>
+                  <xs:attribute name="site" type="xs:string" use="optional"></xs:attribute>
+                  <xs:attribute name="price" type="xs:string" use="optional"></xs:attribute>
+                  <xs:attribute name="topic" type="xs:string" use="optional"></xs:attribute>
+                  <xs:attribute name="candidates" type="xs:string" use="optional"></xs:attribute>
+                  <xs:attribute name="lenght" type="xs:string" use="optional"></xs:attribute>
+                  <xs:attribute name="status" type="xs:boolean" use="optional"></xs:attribute>
+                  <xs:attribute name="save" type="xs:boolean"></xs:attribute>
+                  <xs:attribute name="creation" type="xs:dateTime"></xs:attribute>
+                  <xs:attribute name="deadline" type="xs:dateTime"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tags">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tag">
+                <xs:complexType>
+                  <xs:attribute name="num" type="xs:byte"></xs:attribute>
+                  <xs:attribute name="name" type="xs:string"> </xs:attribute>
+                  <xs:attribute name="visibility" type="xs:boolean"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

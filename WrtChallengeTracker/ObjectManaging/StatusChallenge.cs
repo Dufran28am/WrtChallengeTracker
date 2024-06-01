@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WrtChallengeTracker
+namespace WrtChallengeTracker.ObjectManaging
 {
     public enum StatusChallenge
     {
